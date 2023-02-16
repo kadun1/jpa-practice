@@ -11,3 +11,5 @@ l
 <src/test/java/jpabook/jpashop/service/MemberServiceTest.java,5\9\59ada3f5603e1b934c7926a9658430e6a4bf3064
 k
 ;src/test/java/jpabook/jpashop/service/OrderServiceTest.java,c\1\c18efbe4f8b1aca0b65439d45690b0c40daca3ca
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
